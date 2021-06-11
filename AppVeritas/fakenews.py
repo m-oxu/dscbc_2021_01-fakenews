@@ -4,7 +4,7 @@ import numpy as np
 
 
 def veritas():
-    st.image("/app/dscbc_2021_01-fakenews/App_Veritas/data/imagem.png", use_column_width=True, width=[int])
+    st.image("/app/dscbc_2021_01-fakenews/AppVeritas/data/imagem.png", use_column_width=True, width=[int])
     #    use_column_width=False, clamp=False, width=1000
     st.header("**Detectando Fake News de COVID-19**")
     st.markdown("---")
