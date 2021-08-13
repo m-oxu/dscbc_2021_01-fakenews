@@ -18,7 +18,6 @@ st.markdown(f""" <style>
     padding-bottom: {padding}rem;
 }} </style> """, unsafe_allow_html=True)
 
-[theme]
 primaryColor="#F63366"
 backgroundColor="#FFFFFF"
 secondaryBackgroundColor="#F0F2F6"
